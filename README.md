@@ -1,4 +1,4 @@
-# 🚀 AI/ML Roadmap from Scratch (Based on YouTube Video)
+# 🚀 AI/ML Roadmap from Scratch
 
 ## 🔹 1. Basics of AI
 
